@@ -1,2 +1,1 @@
-This is the file to remove bug from master branch
-
+This is the file to remove bug by the involvement of manager...............
